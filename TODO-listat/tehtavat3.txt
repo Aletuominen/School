@@ -1,0 +1,9 @@
+4;kay kaupassa
+1;maksa sahkolasku
+5;pelaa videopeleja
+3;pese pyykki
+1;siivoa kamppa
+4;harjaa hampaat;toimiikosilti
+5;lue tenttiin
+2;muista nukkua
+1;tiskaa astiat
